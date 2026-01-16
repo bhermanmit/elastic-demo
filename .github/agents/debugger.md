@@ -13,13 +13,6 @@ tools:
   grep: true
   view: true
   task: false
-permission:
-  edit:
-    "*": allow
-  create:
-    "*": allow
-  bash:
-    "*": allow
 ---
 
 # Debugger Subagent

@@ -13,13 +13,6 @@ tools:
   grep: true
   view: true
   task: false
-permission:
-  edit:
-    "*": deny
-  create:
-    "*": deny
-  bash:
-    "*": deny
 ---
 
 # Task Planner Subagent

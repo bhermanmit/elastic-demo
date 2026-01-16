@@ -13,15 +13,7 @@ tools:
   edit: false
   bash: false
   create: false
-permission:
-  edit:
-    "*": deny
-  create:
-    "*": deny
-  bash:
-    "*": deny
-  web_fetch:
-    "*": deny
+  web_fetch: false
 ---
 
 # Primary Orchestrator Agent
