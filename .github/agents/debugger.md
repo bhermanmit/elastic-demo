@@ -7,6 +7,7 @@ tools:
   read: true
   write: true
   edit: true
+  create: true
   bash: true
   glob: true
   grep: true
@@ -14,6 +15,7 @@ tools:
   task: false
 permission:
   edit: allow
+  create: allow
   bash:
     "*": allow
 ---
