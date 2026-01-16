@@ -2,7 +2,7 @@
 description: Specialized agent for writing and modifying code, implementing features
 mode: subagent
 model: claude-3-5-sonnet-20241022
-temperature: 0.0
+temperature: 0.1
 tools:
   read: true
   write: true

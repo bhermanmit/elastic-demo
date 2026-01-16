@@ -2,7 +2,7 @@
 description: Specialized agent for debugging, troubleshooting, and investigating issues
 mode: subagent
 model: claude-3-5-sonnet-20241022
-temperature: 0.0
+temperature: 0.1
 tools:
   read: true
   write: true
