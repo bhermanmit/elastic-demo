@@ -1,7 +1,7 @@
 ---
 description: Specialized agent for creating and updating documentation
 mode: subagent
-model: claude-3-5-sonnet-20241022
+model: gpt-5.2
 temperature: 0.2
 tools:
   read: true
